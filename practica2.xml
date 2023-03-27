@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<supermercados>
+  <supermercado>
+    <nombre>Mercadona</nombre>
+    <direccion>Calle Budapest, 8</direccion>
+    <geolocalizacion>
+      <latitud>41º24'12,2 N</latitud>
+      <longitud>2º10'26,5 E</longitud>
+    </geolocalizacion>
+  </supermercado>
+  <supermercado>
+    <productos>
+      <producto>
+        <nombre>huevos</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>
+          <fechainicio>2023-02-12</fechainicio>
+          <fechafin>2023-03-01</fechafin>
+        </periodo_vigencia>
+        <unidades>6</unidades>
+        <unidadmedida>unidades</unidadmedida>
+        <precio>2.3</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>leche</nombre>
+        <oferta>false</oferta>
+        <periodo_vigencia/>
+        <unidades>1</unidades>
+        <unidadmedida>litros</unidadmedida>
+        <precio>4</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>harina</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>
+          <fechainicio>2023-03-05</fechainicio>
+          <fechafin>2023-03-10</fechafin>
+        </periodo_vigencia>
+        <unidades>2</unidades>
+        <unidadmedida>kilos</unidadmedida>
+        <precio>3</precio>
+        <adquirido>true</adquirido>
+      </producto>
+    </productos>
+  </supermercado>
+  <supermercado>
+    <nombre>Lidl</nombre>
+    <direccion>Calle Roma, 15</direccion>
+    <geolocalizacion>
+      <latitud>48º32'10,2 N</latitud>
+      <longitud>21º15'62,2 E</longitud>
+    </geolocalizacion>
+  </supermercado>
+  <supermercado>
+    <productos>
+      <producto>
+        <nombre>pechuga de pollo</nombre>
+        <oferta>false</oferta>
+        <periodo_vigencia/>
+        <unidades>6</unidades>
+        <unidadmedida>kilos</unidadmedida>
+        <precio>5.35</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>queso fresco</nombre>
+        <oferta>false</oferta>
+        <periodo_vigencia/>
+        <unidades>1</unidades>
+        <unidadmedida>litros</unidadmedida>
+        <precio>4</precio>
+        <adquirido>true</adquirido>
+      </producto>
+      <producto>
+        <nombre>naranjas</nombre>
+        <oferta>true</oferta>
+        <periodo_vigencia>
+          <fechainicio>2023-05-05</fechainicio>
+          <fechafin>2023-05-30</fechafin>
+        </periodo_vigencia>
+        <unidades>2

@@ -1,0 +1,91 @@
+{
+    "supermercados": [
+        {
+            "nombre": "Mercadona",
+            "direccion": "Calle Budapest, 8",
+            "geolocalizacion": [
+                "41º24'12,2 N",
+                "2º10'26,5 E"
+            ]
+        },
+        {
+            "productos": [
+                {
+                    "nombre": "huevos",
+                    "oferta": true,
+                    "periodo de vigencia": {
+                        "fechainicio": "2023-02-12",
+                        "fechafin": "2023-03-01"
+                    },
+                    "unidades": 6,
+                    "unidadmedida": "unidades",
+                    "precio": 2.3,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "leche",
+                    "oferta": false,
+                    "periodo de vigencia": null,
+                    "unidades": 1,
+                    "unidadmedida": "litros",
+                    "precio": 4,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "harina",
+                    "oferta": true,
+                    "periodo de vigencia": {
+                        "fechainicio": "2023-03-05",
+                        "fechafin": "2023-03-10"
+                    },
+                    "unidades": 2,
+                    "unidadmedida": "kilos",
+                    "precio": 3,
+                    "adquirido": true
+                }
+            ]
+        },
+        {
+            "nombre": "Lidl",
+            "direccion": "Calle Roma, 15",
+            "geolocalizacion": [
+                "48º32'10,2 N",
+                "21º15'62,2 E"
+            ]
+        },
+        {
+            "productos": [
+                {
+                    "nombre": "pechuga de pollo",
+                    "oferta": false,
+                    "periodo de vigencia": null,
+                    "unidades": 6,
+                    "unidadmedida": "kilos",
+                    "precio": 5.35,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "queso fresco",
+                    "oferta": false,
+                    "periodo de vigencia": null,
+                    "unidades": 1,
+                    "unidadmedida": "litros",
+                    "precio": 4,
+                    "adquirido": true
+                },
+                {
+                    "nombre": "naranjas",
+                    "oferta": true,
+                    "periodo de vigencia": {
+                        "fechainicio": "2023-05-05",
+                        "fechafin": "2023-05-30"
+                    },
+                    "unidades": 2.5,
+                    "unidadmedida": "gramos",
+                    "precio": 3,
+                    "adquirido": true
+                }
+            ]
+        }
+    ]
+}
